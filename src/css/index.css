@@ -1,0 +1,15 @@
+.img {
+  width: 100% !important;
+  height: 150px !important;
+}
+
+.profile {
+  min-width: 100%;
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.profile h1 {
+  color: black;
+}
