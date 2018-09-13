@@ -3,7 +3,6 @@ import React,{Component} from 'react';
 class Recipe extends Component{
 
  render(){
-   console.log(this.props.location)
   const recipe = this.props.location.state;
   const bgimage = recipe.image_url;
    return(
